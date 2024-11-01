@@ -1,1 +1,12 @@
-<!DOCTYPE css> 
+/* Color Palette:
+Light Shades: #f2f2f2;
+Light Accent: #D9A1A0;
+Main Brand Color: #DB6F6F;
+Dark Accent: #753D3C;
+Dark Shades: #422227;
+*/
+.name{
+    color: #DB6F6F;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large
+}
