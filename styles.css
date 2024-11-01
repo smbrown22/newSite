@@ -10,3 +10,8 @@ Dark Shades: #422227;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: large
 }
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+}
